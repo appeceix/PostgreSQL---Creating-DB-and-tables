@@ -22,7 +22,7 @@ Before running this notebook, make sure you have the following installed:
 
 2. Install Required Packages: Open a terminal/command prompt, navigate to the project folder, and install the required Python packages using the following command:
    
-pip install psycopg2
+```pip install psycopg2```
 
 
 3. Open Jupyter Notebook: Launch Jupyter Notebook from the terminal by typing `jupyter notebook`.
